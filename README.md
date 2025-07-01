@@ -1,5 +1,4 @@
-# Dynamic-pricing-Solution-for-bill-board-Advertising-
-FINAL YEAR MAJOR PROJECT
+
 # 🧠 Dynamic Pricing Solution for Billboard Advertising
 
 A smart pricing system designed to dynamically adjust billboard advertisement costs based on real-time factors such as **location traffic**, **time slot**, **demand trends**, and **visibility**. This project leverages **data-driven decision-making** to help advertisers maximize ROI and improve ad reach effectiveness.
